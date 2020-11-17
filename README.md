@@ -1,1 +1,2 @@
-# Testing
+# CO-OPS Repository Template
+
